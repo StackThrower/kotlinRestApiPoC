@@ -10,7 +10,7 @@ build/
 *.ipr
 *.iws
 out/
-gradle
+
 
 # macOS
 .DS_Store
